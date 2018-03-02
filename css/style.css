@@ -8,10 +8,10 @@ body,html
 {
     position: relative;
     box-sizing: border-box;
+    max-width: 100%;
+    min-width: 930px;
     min-height: 100%;
-    width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    
 }
 header
 {
@@ -22,6 +22,8 @@ header
     background-position: center;
     
     position: absolute;
+    
+    margin-bottom: 10px;
 }
 header:after
 {
@@ -30,6 +32,7 @@ header:after
 }
 .in
 {
+    max-width: 1300px;
     margin-left: 170px;
     margin-right: 170px;
 }
@@ -92,10 +95,50 @@ nav
 }
 #mainphoto
 {
-    background-image: url(../image/mainphoto.jpg);
+    background-image: url(../image/mainphoto2.jpg);
     background-position: center;
     background-repeat: no-repeat;
+    
     width: 1280px;
     height: 573px;
     
+}
+#mainphoto div
+{
+    width:405px ;
+    height: 287px;
+   
+    float: right;
+    margin-right: 140px;
+    margin-top: 158px;
+        
+}
+h1
+{
+    color: #fff;
+    font-size: 38px;
+    font-weight: bold;
+    padding-left: 1px;
+    padding-bottom: 25px;
+    
+}
+h2
+{
+    font-size: 20px;
+    color: #e8cbe6;
+    font-weight: bold;
+}
+/*#mainphoto div img
+{
+        margin-left: -12px;
+    margin-top: -58px;
+}*/
+h3
+{
+      font-size: 14px;
+    color: #e8cbe6;
+    font-weight: bold;
+    width: 181px;
+    padding-left: 201px;
+    padding-top: 40px;
 }
