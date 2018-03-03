@@ -1,0 +1,98 @@
+@font-face {
+    font-family: 'UralPro';
+    src: url('../fonts/UralPro/UralPro-Bold.eot');
+    src: url('../fonts/UralPro/UralPro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UralPro/UralPro-Bold.woff2') format('woff2'),
+        url('../fonts/UralPro/UralPro-Bold.woff') format('woff'),
+        url('../fonts/UralPro/../fonts/UralPro/UralPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UralPro';
+    src: url('../fonts/UralPro/Ural-Bold.eot');
+    src: url('../fonts/UralPro/Ural-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UralPro/Ural-Bold.woff2') format('woff2'),
+        url('../fonts/UralPro/Ural-Bold.woff') format('woff'),
+        url('../fonts/UralPro/Ural-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UralPro';
+    src: url('../fonts/UralPro/Ural.eot');
+    src: url(../fonts/UralPro/'Ural.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UralPro/Ural.woff2') format('woff2'),
+        url('../fonts/UralPro/Ural.woff') format('woff'),
+        url('../fonts/UralPro/Ural.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UralPro';
+    src: url('../fonts/UralPro/uralbold.eot');
+    src: url('../fonts/UralPro/uralbold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UralPro/uralbold.woff2') format('woff2'),
+        url('../fonts/UralPro/uralbold.woff') format('woff'),
+        url('../fonts/UralPro/uralbold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UralPro';
+    src: url('../fonts/UralPro/UralPro-Bold_1.eot');
+    src: url('../fonts/UralPro/UralPro-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UralPro/UralPro-Bold_1.woff2') format('woff2'),
+        url('../fonts/UralPro/UralPro-Bold_1.woff') format('woff'),
+        url('../fonts/UralPro/UralPro-Bold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UralPro';
+    src: url('../fonts/UralPro/uralregular.eot');
+    src: url('../fonts/UralPro/uralregular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UralPro/uralregular.woff2') format('woff2'),
+        url('../fonts/UralPro/uralregular.woff') format('woff'),
+        url('../fonts/UralPro/uralregular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UralPro';
+    src: url('../fonts/UralPro/Ural_1.eot');
+    src: url('../fonts/UralPro/Ural_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UralPro/Ural_1.woff2') format('woff2'),
+        url('../fonts/UralPro/Ural_1.woff') format('woff'),
+        url('../fonts/UralPro/Ural_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UralPro';
+    src: url('../fonts/UralPro/UralPro-Bold_2.eot');
+    src: url('../fonts/UralPro/UralPro-Bold_2.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UralPro/UralPro-Bold_2.woff2') format('woff2'),
+        url('../fonts/UralPro/UralPro-Bold_2.woff') format('woff'),
+        url('../fonts/UralPro/UralPro-Bold_2.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UralPro';
+    src: url('../fonts/UralPro/Ural-Bold_1.eot');
+    src: url('../fonts/UralPro/Ural-Bold_1.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/UralPro/Ural-Bold_1.woff2') format('woff2'),
+        url('../fonts/UralPro/Ural-Bold_1.woff') format('woff'),
+        url('../fonts/UralPro/Ural-Bold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
