@@ -9,6 +9,7 @@ body,html
 {
     position: relative;
     box-sizing: border-box;
+    
     max-width: 100%;
     min-width: 930px;
     min-height: 100%;
@@ -88,14 +89,9 @@ nav
     line-height: 12px;
     
 }
-
-.vk img
+.iconvkheader
 {
-    float: right;
-    display: block;
-    position: absolute;
-    left: 1085px;
-    top: 17px;
+    padding-bottom: 37px;
 }
 #mainphoto
 {
@@ -154,9 +150,10 @@ main
     margin-left: auto;
     margin-right: auto;
     background-color: #050411;
-    height: 1006px;
+    height: 1002px;
     margin-top: -64px;
     padding: 20px;
+    margin-bottom: 68px;
 }
 .mainvideo
 {
@@ -288,29 +285,85 @@ button:hover
 {
     background-color: #ffe200;
 }
-#footer
+#mainfooter
 {
     width: 949px;
     height: 68px;
     background-color: #050411;
     display: inline-block;
     margin-left: 33px;
+    
 }
-#footer:before
+#mainfooter:before
 {
     content: '';
     clear: both;
 }
-#footer p
+#mainfooter p
 {
     color: #fff;
     font-size: 17px;
     font-weight: bold;
+    padding-top: 15px;
+    padding-bottom: 33px;
 }
-#footer span
+#mainfooter span
 {
     color: yellow;
     font-size: 17px;
     font-weight: bold;
+}
+footer
+{
+    width: 100%;
+    position: absolute;
+    background-color: #000;
+    height: 144px;
+}
+footer img
+{
+    padding-top: 35px;
+}
+footer p
+{
+    color: #555;
+    font-family: 'Arial';
+    font-size: 10px;
+    padding-left: 143px;
+    display:block;
+    margin-bottom: -10px;
+}
+.firsta
+{
+    padding-left: 33px;
+}
+footer p a
+{
+    padding-right: 13px;
+}
+.lastp
+{
+   
+    padding-left: 160px;
+    font-size: 12px;
+    float: right;
+}
+.lastp span
+{
+    color: #fff;
+    font-family: 'Arial';
+    font-size: 12px;
+}
+
+.bluesquare
+{
+    
+    height:25px;
+    width: 25px;
+    background-color: #2e1f70;
+    float: right;
+    margin-top: -32px;
+    margin-right: -157px;
+    display: inline-block;
 }
 
