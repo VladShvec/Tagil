@@ -9,11 +9,10 @@ body,html
 {
     position: relative;
     box-sizing: border-box;
-    
     max-width: 100%;
     min-width: 930px;
     min-height: 100%;
-    font-family: 'Ural Pro';
+    
     
 }
 header
@@ -56,7 +55,7 @@ li
     color: #d8d6d7;
     font-size: 13px;
     font-weight: bold;
-    font-family: 'UralPro';
+    font-family: 'Ural';
     padding-right: 30px;
     padding-bottom: 20px;
 }
@@ -71,13 +70,13 @@ nav
      color: #d8d6d7;
     font-size:19px;
     font-weight: bold;
-    font-family: 'UralPro';
+    font-family: 'Ural';
     padding-left: 8px;
 }
 .vk    
 {
     display: inline-block;
-   width: 134px;
+    width: 134px;
     height: 60px;
     padding-left: 41px;
 }
@@ -87,6 +86,7 @@ nav
     text-align: right;
     font-size: 13px;
     line-height: 12px;
+    font-family: 'Helvetica';
     
 }
 .iconvkheader
@@ -120,13 +120,14 @@ h1
     font-weight: bold;
     padding-left: 1px;
     padding-bottom: 25px;
-    font-family: 'Ural Pro';
+    font-family: 'Ural';
 }
 h2
 {
     font-size: 20px;
     color: #e8cbe6;
     font-weight: bold;
+    font-family: 'Ural';
 }
 /*#mainphoto div img
 {
@@ -142,7 +143,7 @@ h3
     padding-left: 201px;
     padding-top: 40px;
     float: right;
-    font-family: 'UralPro';
+    font-family: 'Ural';
 }
 main
 {
@@ -174,7 +175,7 @@ main
     color: black;
     font-weight: bold;
     display: inline-block;
-    
+    font-family: 'Helvetica';
 }
 time
 {
@@ -184,6 +185,7 @@ time
     padding-left: 34px;
     padding-right: 18px;
     display: inline-block;
+    font-family: 'Helvetica';
 }
 .mainvideo .part2
 
@@ -198,6 +200,7 @@ time
     padding-top: 16px;
     padding-left: 43px;
     background-image: url(../image/part2.jpg);
+    font-family: 'Helvetica';
 }
 .smallblocks
 {
@@ -221,13 +224,14 @@ time
     height: 41px;
     width: 300px;
     display: inline-block;
-   
+    font-family: 'Helvetica';
 }
 .smallblocks time
 {
     padding-top: 16px;
-    padding-right: 20px;
+    padding-right: 9px;
     color: #a3a3a3;
+    font-family: 'Helvetica';
 }
 .smallblocks span
 {
@@ -254,6 +258,7 @@ time
     padding-top: 28px;
     padding-bottom: 25px;
     font-size: 17px;
+    font-family: 'Ural';
     font-weight: bold;
 }
 input
@@ -264,6 +269,7 @@ input
     margin-right: 15px;
     margin-bottom: 11px;
     padding-left: 10px;
+    font-family: 'Helvetica';
 }
 textarea
 {
@@ -273,6 +279,7 @@ textarea
     padding-left: 15px;
     padding-top: 16px;
     margin-bottom: 15px;
+    font-family: 'Helvetia';
 }
 button 
 {
@@ -280,6 +287,7 @@ button
     width: 110px;
     height: 36px;
     background-color: #ffbb00;
+    font-family: 'Helvetica';
 }
 button:hover
 {
@@ -306,6 +314,7 @@ button:hover
     font-weight: bold;
     padding-top: 15px;
     padding-bottom: 33px;
+    font-family: 'Ural';
 }
 #mainfooter span
 {
