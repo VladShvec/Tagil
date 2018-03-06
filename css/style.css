@@ -147,7 +147,7 @@ h3
 }
 main
 {
-    width: 982px;
+    width: 948px;
     margin-left: auto;
     margin-right: auto;
     background-color: #050411;
@@ -162,7 +162,6 @@ main
     width: 624px;
    /* background-image: url(../image/mainvideo.jpg);*/
     float: left;
-    margin-left: 34px;
     margin-bottom: 20px;
     
 }
@@ -208,7 +207,16 @@ time
     height:211px ;
     float: right;
     margin-bottom: 20px;
-    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.smallblocks:nth-child(1)
+{
+    margin-right: 0px;
+}
+.smallblocks:nth-child(-n+3)
+{
+    margin-right: 0px;
 }
 .smallblocks:after
 {
@@ -244,7 +252,6 @@ time
     width:304px ;
     background-color: #2e236e;
     float: right;
-    margin-left: 20px;
 }
 #forum:before
 {
@@ -295,7 +302,7 @@ button:hover
 }
 #mainfooter
 {
-    width: 949px;
+    width: 936px;
     height: 68px;
     background-color: #050411;
     display: inline-block;
