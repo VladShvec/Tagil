@@ -85,16 +85,19 @@ nav
     text-align: right;
     font-size: 13px;
     line-height: 12px;
-    font-family: 'Helvetica';
+    font-family: 'HelveticaNeue';
     
 }
-.vk p:after
+.vk a
 {
-    content: url(../image/icon4.png);
-    margin-top: -19px;
-    margin-left: 6px;
-    position: absolute;
+    margin-left: 145px;
+    
 }
+.vk img
+{
+    margin-bottom: -22px;
+}
+
 .iconvkheader
 {
     padding-bottom: 37px;
@@ -142,7 +145,7 @@ nav
 .instagram p
 {
     font-size: 10px;
-    font-family: 'Helvetica';
+    font-family: 'HelveticaNeue';
     color: #8c3c7f;
     text-align: right;
     margin-right: 27px;
@@ -215,17 +218,17 @@ main
     color: black;
     font-weight: bold;
     display: inline-block;
-    font-family: 'Helvetica';
+    font-family: 'HelveticaNeue';
 }
 time
 {
     color: #cdcdcd;
     font-size: 10px;
     padding-top: 25px;
-    padding-left: 34px;
+    padding-left: 23px;
     padding-right: 18px;
     display: inline-block;
-    font-family: 'Helvetica';
+    font-family: 'HelveticaNeue';
 }
 .mainvideo .part2
 
@@ -240,15 +243,16 @@ time
     padding-top: 16px;
     padding-left: 43px;
     background-image: url(../image/part2.jpg);
-    font-family: 'Helvetica';
+    font-family: 'HelveticaNeue';
 }
 .smallblocks
 {
-    width:302px ;
-    height:211px ;
+    width: 302px;
+    height: 176px;
     float: right;
-    margin-bottom: 20px;
+    margin-bottom: 55px;
     margin-right: 20px;
+    
 
 }
 .smallblocks:nth-child(1)
@@ -270,17 +274,20 @@ time
     font-size: 12px;
     color: black;
     font-weight: bold;
-    height: 41px;
+    height: 25px;
     width: 300px;
     display: inline-block;
-    font-family: 'Helvetica';
+    font-family: 'HelveticaNeue';
+    padding-top: 16px;
 }
 .smallblocks time
 {
-    padding-top: 16px;
-    padding-right: 9px;
+    padding-top: 2px;
+    padding-right: 20px;
     color: #a3a3a3;
-    font-family: 'Helvetica';
+    font-family: 'HelveticaNeue';
+    float: right;
+    display: inline-block;
 }
 .smallblocks span
 {
@@ -317,7 +324,7 @@ input
     margin-right: 15px;
     margin-bottom: 11px;
     padding-left: 10px;
-    font-family: 'Helvetica';
+    font-family: 'HelveticaNeue';
 }
 textarea
 {
@@ -327,7 +334,7 @@ textarea
     padding-left: 15px;
     padding-top: 16px;
     margin-bottom: 15px;
-    font-family: 'Helvetia';
+    font-family: 'HelvetiaNeue';
 }
 button 
 {
@@ -335,7 +342,7 @@ button
     width: 110px;
     height: 36px;
     background-color: #ffbb00;
-    font-family: 'Helvetica';
+    font-family: 'HelveticaNeue';
 }
 button:hover
 {
