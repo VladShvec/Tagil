@@ -113,7 +113,7 @@ nav
 #mainphoto .nn
 {
     width:405px ;
-    height: 287px;
+    height: 351px;
    
     float: right;
     margin-right: -8px;
@@ -134,6 +134,26 @@ nav
     margin-left: auto;
     margin-right: auto;
 }
+.instagram
+{
+    margin-top: 35px;
+    
+}
+.instagram p
+{
+    font-size: 10px;
+    font-family: 'Helvetica';
+    color: #8c3c7f;
+    text-align: right;
+    margin-right: 27px;
+
+}
+.instagram  a img
+{
+    margin-bottom: 18px;
+    margin-left: 395px;
+}
+
 h1
 {
     color: #fff;
@@ -334,7 +354,7 @@ button:hover
     content: '';
     clear: both;
 }
-#mainfooter p
+#mainfooter a
 {
     color: #fff;
     font-size: 17px;
