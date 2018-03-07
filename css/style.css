@@ -105,19 +105,34 @@ nav
     background-position: center;
     background-repeat: no-repeat;
     
-    width: 100%;
+    width:100%;
     height: 573px;
     
 }
-#mainphoto div
+
+#mainphoto .nn
 {
     width:405px ;
     height: 287px;
    
     float: right;
-    margin-right: 140px;
+    margin-right: -8px;
     margin-top: 158px;
         
+}
+#mainphoto div h3
+{
+    display: inline-block;
+}
+#mainphoto div img
+{
+    margin-top: -63px;
+}
+.mrg
+{
+    width: 948px;
+    margin-left: auto;
+    margin-right: auto;
 }
 h1
 {
