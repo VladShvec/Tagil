@@ -330,7 +330,7 @@ input
     padding-left: 10px;
     font-family: 'Helvetica Neue';
     box-shadow: inset 0px -2px 0px 0px #ccc;
-    border: none;
+    border: 1px solid #09081c;
 
 }
 textarea
@@ -344,9 +344,13 @@ textarea
     font-family: 'Helvetia Neue';
     resize: none;
     box-shadow: inset 0px -2px 0px 0px #ccc;
-    border: none;
+    border: 1px solid #09081c;
 
 }
+::-webkit-input-placeholder {color:#acacac;}
+::-moz-placeholder          {color:#acacac;}
+:-moz-placeholder           {color:#acacac;}
+:-ms-input-placeholder      {color:#acacac;}
 button 
 {
     margin-left: 15px;
@@ -363,6 +367,9 @@ button
 button:hover
 {
     background: linear-gradient(to bottom, #ffdf00, #ffba00);
+    border-top: none;
+    box-shadow: inset 0px -1px 0px 0px #7a5600;
+
 }
 #mainfooter
 {
@@ -445,4 +452,11 @@ footer p img
     margin-right: -157px;
     display: inline-block;
 }
-
+footer p img
+{
+    opacity: 0.6;
+}
+footer p img:hover
+{
+    opacity: 1;
+}
