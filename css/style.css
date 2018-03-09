@@ -87,7 +87,7 @@ nav li
     text-align: right;
     font-size: 13px;
     line-height: 12px;
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica Neue';
     
 }
 .vk a
@@ -147,7 +147,7 @@ nav li
 .instagram p
 {
     font-size: 10px;
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica Neue';
     color: #8c3c7f;
     text-align: right;
     margin-right: 27px;
@@ -220,7 +220,7 @@ main
     color: black;
     font-weight: bold;
     display: inline-block;
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica Neue';
 }
 time
 {
@@ -230,7 +230,7 @@ time
     padding-left: 23px;
     padding-right: 18px;
     display: inline-block;
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica Neue';
 }
 .mainvideo .part2
 
@@ -245,7 +245,7 @@ time
     padding-top: 16px;
     padding-left: 43px;
     background-image: url(../image/part2.jpg);
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica Neue';
 }
 .smallblocks
 {
@@ -278,7 +278,7 @@ time
     height: 25px;
     width: 300px;
     display: inline-block;
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica Neue';
     padding-top: 16px;
     box-shadow: inset 0px -2px 0px 0px #ccc;
 
@@ -289,7 +289,7 @@ time
     padding-top: 2px;
     padding-right: 20px;
     color: #a3a3a3;
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica Neue';
     float: right;
     display: inline-block;
 }
@@ -328,7 +328,7 @@ input
     margin-right: 15px;
     margin-bottom: 11px;
     padding-left: 10px;
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica Neue';
     box-shadow: inset 0px -2px 0px 0px #ccc;
     border: none;
 
@@ -341,7 +341,7 @@ textarea
     padding-left: 15px;
     padding-top: 16px;
     margin-bottom: 15px;
-    font-family: 'HelvetiaNeue';
+    font-family: 'Helvetia Neue';
     resize: none;
     box-shadow: inset 0px -2px 0px 0px #ccc;
     border: none;
@@ -353,7 +353,7 @@ button
     width: 110px;
     height: 36px;
     background: linear-gradient(to bottom, #ffc600, #ffa500);
-    font-family: 'HelveticaNeue';
+    font-family: 'Helvetica Neue';
     border-top: 1px solid #fff0b3;
     border-bottom: none;
     border-left: none;
